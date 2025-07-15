@@ -15,7 +15,7 @@ env/
 
 # Logs and results
 *.log
-results/
+
 
 # Python package files
 *.egg
